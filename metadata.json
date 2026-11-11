@@ -1,0 +1,6 @@
+{
+  "name": "S2S learn — Student Skill Exchange Platform",
+  "description": "A peer-to-peer student skill exchange platform where college students teach what they know and learn what they need for free.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
